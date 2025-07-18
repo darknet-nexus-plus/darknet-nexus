@@ -51,4 +51,6 @@ This guide is for educational purposes only. The information that is provided ha
 
 
 
-Update: Fixed broken url, now reachable and live
+
+
+Update: Admin links
